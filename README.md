@@ -35,6 +35,4 @@ This project showcases a stylish fashion store interface featuring clothing cate
 - **CSS3**  
   Used for styling, layouts, animations, and responsive design.
 
----
 
-## 📂 Project Structure
