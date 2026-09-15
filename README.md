@@ -1,41 +1,40 @@
-I'm Harini Yogarajah 
+# Velvet Vogue - Fashion Retail Website 👗✨
 
-Software Engineering Undergraduate | Aspiring Full Stack Developer
+Welcome to **Velvet Vogue**, a modern and responsive fashion retail website designed to provide an elegant online shopping experience.
 
-Welcome to my portfolio repository.
+This project showcases a stylish fashion store interface featuring clothing categories, product showcases, promotional offers, and interactive user interface components. The website focuses on clean design, responsive layouts, and an attractive shopping experience.
 
-I am a Level 5 Pearson BTEC HND Computing (Software Engineering) undergraduate interested in software development, web technologies, and building useful applications.
+---
 
-Skills
+## 🌟 Features
 
-Frontend Development
-- HTML
-- CSS
-- JavaScript
+- Modern fashion retail website design
+- Fully responsive layout for desktop and mobile devices
+- Men's, Women's, and Kids' clothing collections
+- New arrivals section
+- Promotional offers section
+- Product cards with:
+  - Product images
+  - Descriptions
+  - Prices
+  - Availability status
+- Product details modal interface
+- Shopping cart user interface
+- Price filter option
+- Product sorting options
+- Fashion assistant chatbot interface
+- Clean and user-friendly navigation
 
-Programming Languages
-- C#
-- Java
-- Python
+---
 
-Database
-- SQL
-- MySQL
+## 🛠️ Technologies Used
 
-Software & Design Tools
-- Git & GitHub
-- Figma
-- Visual Studio Code
+- **HTML5**  
+  Used for creating the structure and content of the website.
 
-Projects
+- **CSS3**  
+  Used for styling, layouts, animations, and responsive design.
 
-FoodHub - Food Delivery System
-A software project developed to manage food ordering and related operations.
+---
 
-UI/UX Design Projects
-Modern website and mobile application interface designs created using Figma.
-
-Contact
-
-LinkedIn: www.linkedin.com/in/harini-yogarajah-ba988a2bb
-
+## 📂 Project Structure
